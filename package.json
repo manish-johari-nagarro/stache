@@ -29,7 +29,7 @@
     "handlebars": "^4.0.4",
     "helper-moment": "^0.1.0",
     "html-minifier": "^1.0.0",
-    "blackbaud-marked": "git://github.com/markedjs/marked.git",
+    "blackbaud-marked": "git+https://github.com/markedjs/marked.git",
     "merge": "^1.2.0",
     "uglify-js": "^2.5.0"
   },
